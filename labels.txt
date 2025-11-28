@@ -1,0 +1,10 @@
+0 Zombie
+1 Creeper
+2 Esqueleto
+3 Enderman
+4 Araña
+5 Vaca
+6 Cerdo
+7 Oveja
+8 Gallina
+9 Aldeano
